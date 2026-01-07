@@ -1,4 +1,4 @@
-package ParkingLot;
+package parking_lot;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

@@ -1,11 +1,11 @@
-package Car;
+package car;
 
-import Car.Brake.BrakeType;
-import Car.Brake.Pads;
-import Car.Engine.DieselEngine;
-import Car.Engine.engine;
-import Car.Media.Dolby;
-import Car.Media.Media;
+import car.Brake.BrakeType;
+import car.Brake.Pads;
+import car.Engine.DieselEngine;
+import car.Engine.engine;
+import car.Media.Dolby;
+import car.Media.Media;
 
 public class NormalCar implements Car{
     private engine EngineType;

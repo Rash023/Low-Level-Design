@@ -1,8 +1,7 @@
-package SnakeAndLadder;
+package snake_and_ladder;
 
 import java.util.List;
 import java.util.Map;
-import java.util.OptionalInt;
 import java.util.Queue;
 
 public class GameBoard {

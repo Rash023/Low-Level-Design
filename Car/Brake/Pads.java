@@ -1,4 +1,4 @@
-package Car.Brake;
+package car.Brake;
 
 public class Pads implements BrakeType{
     @Override

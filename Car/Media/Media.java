@@ -1,4 +1,4 @@
-package Car.Media;
+package car.Media;
 
 public interface Media {
     public void startMusic();

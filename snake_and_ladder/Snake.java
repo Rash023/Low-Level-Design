@@ -1,10 +1,11 @@
-package SnakeAndLadder;
+package snake_and_ladder;
 
-public class Ladder {
+public class Snake {
     int startPoint=0;
     int endPoint=0;
-    public Ladder(int startPoint,int endPoint){
-        if(startPoint<endPoint){
+
+    public Snake(int startPoint,int endPoint){
+        if(startPoint>endPoint){
             this.startPoint=startPoint;
             this.endPoint=endPoint;
         }

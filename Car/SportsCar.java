@@ -1,11 +1,11 @@
-package Car;
+package car;
 
-import Car.Brake.BrakeType;
-import Car.Brake.Disc;
-import Car.Engine.PetrolEngine;
-import Car.Engine.engine;
-import Car.Media.Kenwood;
-import Car.Media.Media;
+import car.Brake.BrakeType;
+import car.Brake.Disc;
+import car.Engine.PetrolEngine;
+import car.Engine.engine;
+import car.Media.Kenwood;
+import car.Media.Media;
 
 public class SportsCar implements Car{
     private engine EngineType;

@@ -1,11 +1,8 @@
-package ParkingLot;
+package parking_lot;
 
-import java.time.LocalDateTime;
-import  java.time.Duration;
-
-public class Car extends Vehicle{
-    public Car(){
-        super(1111,10,1);
+public class Bike extends Vehicle{
+    public Bike(){
+        super(9999,5,0.5);
     }
 
 
@@ -20,5 +17,4 @@ public class Car extends Vehicle{
     public int getVehicleNumber(){
         return this.vehicleNumber;
     }
-
 }

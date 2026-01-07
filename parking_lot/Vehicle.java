@@ -1,6 +1,5 @@
-package ParkingLot;
+package parking_lot;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public abstract class Vehicle {

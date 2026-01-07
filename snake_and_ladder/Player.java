@@ -1,4 +1,4 @@
-package SnakeAndLadder;
+package snake_and_ladder;
 
 public class Player {
     private String playerName;

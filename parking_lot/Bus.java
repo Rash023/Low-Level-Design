@@ -1,14 +1,10 @@
-package ParkingLot;
+package parking_lot;
 
-import java.time.Duration;
-import java.time.LocalDateTime;
+public class Bus extends Vehicle{
 
-public class Bike extends Vehicle{
-    public Bike(){
-        super(9999,5,0.5);
+    public Bus(){
+        super(8171,20,2);
     }
-
-
 
     public double getCost(){
         return this.cost;

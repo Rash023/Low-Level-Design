@@ -20,7 +20,6 @@ public class main {
         while(favoritesPlaylist.hasNext()){
             System.out.println("Playing:-"+favoritesPlaylist.next());
         }
-
         System.out.println("\nShuffled Playlist");
         PlaylistIterator shuffledPlaylist=playlist.iterator("shuffled");
         while(shuffledPlaylist.hasNext()){
